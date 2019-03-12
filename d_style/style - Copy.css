@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+
+
+@font-face{
+	font-family:"Lakesight Personal Use Only";
+	src:url(Lakesight.ttf)
+}
+@font-face{
+	font-family:"Josefin Slab";
+	src:url(JosefinSlab-Bold.ttf)
+}
+
+.logo{
+	margin-bottom:15pt;}
+.header{
+	margin-bottom:5pt;
+	font-family:"Lakesight Personal Use Only";
+	/*src:url(style.css)*/
+	font-size:38px;
+	color:#e56a5b
+	}
+.price{
+	margin-bottom:5pt;
+	font-family:"Josefin Slab";
+	/*src:url(style.css)*/
+	font-size:20px;
+	color:#e56a5b
+	}	
+
+.contentnumber{
+		font-family:'Josefin Slab'; 
+		/*src:url(style.css);*/
+		color:#4d917a; 
+		font-size:20px
+	}
+
+.table_row{ padding:4pt}
+.content{
+	border-radius:20px;
+	border:#4d917a;
+		font-family:'Josefin Slab'; 
+		/*src:url(style.css);*/
+		color:#4d917a; 
+		font-size:24px}
+.message{
+		font-family:'Josefin Slab'; 
+		/*src:url(style.css);*/
+		color:#e56a5b; 
+		font-size:18px}
+
+.quemargin{
+		margin-bottom:1pt
+	}
+.ansmargin{
+		margin-bottom:5pt
+}
+.box{
+	height:150pt;
+	width:150pt
+	
+	}
+/*@font-face {
+	font-family:"Lakesight Personal Use Only";
+	src:url(Lakesight.ttf) format('truetype')
+}*/
+
+/*@font-face {
+	font-family:"Josefin Slab";
+	src:url(JosefinSlab-Bold.ttf)format('truetype')
+	
+}*/
+/*.ans{
+	font-family:"Josefin Slab";
+	font-size:22px;
+	color:#e56a5b
+}
+*/
+/*
+.field_border{
+		border-radius:5px
+}*/
+.textfield_border{
+		border-radius:5px;
+		width:40%	
+}
+.textfield_mob_border{
+		border-radius:5px
+}
+.nxt_button{
+		/*background:#D9C5AA;*/
+		/*color:#5E331A;*/
+		font-family:'Josefin Slab'; 
+		src:url(JosefinSlab-Bold.ttf);
+		font-size:22px;		
+		border-radius:5px
+}
+.rowtitle{
+	font-family:"Lakesight Personal Use Only";
+	src:url(Lakesight.ttf);
+	color:#e56a5b
+}
+.rowcontent{
+		font-family:'Josefin Slab'; 
+		src:url(JosefinSlab-Bold.ttf);
+		color:#4d917a
+}
