@@ -22,7 +22,7 @@ style="position: fixed; width: 100%; height: auto; font-size: 15px; background-i
 	+971523135765 | &nbsp; info@prudentialengineering.com
 </div>
 
-2019 &copy;All rights reserved by Prudential Engineering Consultants.
+2019 &copy;All rights reserved by Dhairya Doshi.
 </div>
 <script>
 function logout(){
